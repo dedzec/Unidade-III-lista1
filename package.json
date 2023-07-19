@@ -1,0 +1,20 @@
+{
+  "name": "unidade-iii-lista-1",
+  "description": "Api ADE90",
+  "author": "Lucas Leal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dedzec/Unidade-III-lista1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "log-timestamp": "^0.3.0",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  }
+}
