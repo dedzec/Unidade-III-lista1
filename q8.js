@@ -25,7 +25,7 @@ function start() {
     }
   }
 
-  console.log('Nao tem numero negativo.');
+  console.log('Não tem numero negativo.');
 }
 
 start();
